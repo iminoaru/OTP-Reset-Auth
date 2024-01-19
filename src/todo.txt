@@ -1,0 +1,5 @@
+// otp forgot password complete
+// refine it ()
+// add jwt
+// add password hashing while adding to db
+// make the about page accessable to logged in users only
